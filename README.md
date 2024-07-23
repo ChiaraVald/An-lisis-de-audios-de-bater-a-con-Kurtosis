@@ -7,13 +7,12 @@ En caso de querer analizar otros audios, cambiar las rutas correspondientes a la
 
 # Librerías necesarias
 
-- librosa
-- numpy
-- sys
-- os
-- matplotlib
+- librosa 0.10.2.post1  
+- numpy 1.26.4  
+- scipy 1.13.0
+- matplotlib 3.8.4 
 - soundflie
-- pandas
+- pandas  2.2.2
 
 # Referencias bibliográficas
 [1] ANSI S3.44 (1996). Determination of occupational noise exposure and estimation of noise-induced hearing
